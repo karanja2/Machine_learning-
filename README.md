@@ -34,7 +34,7 @@ The data includes the following columns:
 - IsActiveMember: Whether the customer is an active member (yes or no)
 - EstimatedSalary: Customer's estimated salary (in euros)
 - Exited: Binary label indicating whether the customer churned (yes or no)
-###Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 The Jupyter Notebook starts by performing exploratory data analysis on the bank customer churn data. This includes:
 
 - Importing the data into a Pandas DataFrame
